@@ -1,0 +1,12 @@
+srujanadb_high = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.ca-montreal-1.oraclecloud.com))(connect_data=(service_name=ge4778cf1df2c35_srujanadb_high.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+srujanadb_low = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.ca-montreal-1.oraclecloud.com))(connect_data=(service_name=ge4778cf1df2c35_srujanadb_low.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+srujanadb_medium = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.ca-montreal-1.oraclecloud.com))(connect_data=(service_name=ge4778cf1df2c35_srujanadb_medium.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+srujanadb_tp = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.ca-montreal-1.oraclecloud.com))(connect_data=(service_name=ge4778cf1df2c35_srujanadb_tp.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+srujanadb_tpurgent = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.ca-montreal-1.oraclecloud.com))(connect_data=(service_name=ge4778cf1df2c35_srujanadb_tpurgent.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+
+
