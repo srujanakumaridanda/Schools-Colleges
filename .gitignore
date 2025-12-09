@@ -1,0 +1,4 @@
+target/ 
+WEB-INF/lib/*.jar 
+*.war 
+.class 
